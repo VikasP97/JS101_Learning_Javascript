@@ -1,0 +1,28 @@
+let line = `:""""""""""""""""""""""""""""":`;
+console.log(line);
+let Name = "Vikas Pandey";
+console.log("Name:- " + Name);
+let school = "I.P.S School";
+console.log("School:- " + school);
+let Grade = "5th";
+console.log("Grade:- " + Grade);
+let section = "C";
+console.log("Section:- " + section);
+let rollNum = 6;
+console.log("Rool Number:- " + rollNum);
+let lin1 = `,"""""""""""""""""""""""""""""".`;
+console.log(lin1);
+let Marks1 = "English       70";
+console.log("Subject1     " + Marks1);
+let marks2 = "Math          80";
+console.log("Subject2     " + marks2);
+let marks3 = "SST           90";
+console.log("Subject3     " + marks3);
+let line2 = `..................................;`
+console.log(line2);
+let total = "Total Marks obtain         240";
+console.log(total);
+let Pass = "Pass";
+console.log(Pass);
+let line3 = `.................................`;
+console.log(line3);
